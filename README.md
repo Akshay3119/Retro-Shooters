@@ -7,6 +7,7 @@ This game has following features:<br>
 • Simple game loops<br>
 • Keyboard Input<br>
 • Brute force collision detection<br>
+<br>
 Our game is divided into seven java classes:<br>
 • Game.java<br>
 • SpriteStore.java<br>
